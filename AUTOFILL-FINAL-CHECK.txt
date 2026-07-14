@@ -1,0 +1,18 @@
+MetalWork Jobs v18.3 — Final Autofill Check
+
+Fixed:
+- WhatsApp generated links now use https://wa.me/NUMBER?text=MESSAGE
+- Removed the extra slash before ?text, which can cause an empty prefilled message in some Android and desktop WhatsApp flows.
+
+Preserved:
+- Emoji-free professional application text
+- Selected job and candidate-detail message generation
+- Review screen before opening WhatsApp
+- Local saved profile and legacy profile migration
+- Session draft restoration
+- 34 job entries and welder-first category
+- Social preview, light/dark mode, legal/privacy/cookies/safety pages
+
+Important:
+- Persistent autofill across browser restarts requires the candidate to select “Save my application details on this device”.
+- Without that selection, the current tab/session draft is retained only for the active browser session.

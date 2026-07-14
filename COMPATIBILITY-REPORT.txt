@@ -1,0 +1,27 @@
+METALWORK JOBS — V14 COMPATIBILITY SUMMARY
+
+Designed for:
+- iPhone / iPad Safari
+- Android Chrome and Samsung Internet
+- Windows Edge, Chrome and Firefox
+- macOS Safari, Chrome and Firefox
+- Responsive widths from 320px mobile through large desktop
+
+Compatibility provisions:
+- viewport-fit=cover and safe-area insets
+- Apple touch icons and web app metadata
+- Android/Chrome manifest
+- Microsoft browser configuration
+- light and dark colour schemes
+- WebKit background-clip and backdrop-filter prefixes
+- fallback colours when metallic text clipping is unsupported
+- fallback solid surfaces when backdrop-filter is unsupported
+- reduced-motion and forced-colour support
+
+Physical-device verification remains recommended after GitHub Pages deployment.
+
+Universal emoji update:
+- WhatsApp prefilled messages use emoji-free plain text, LF line breaks, NFC normalization and URL encoding for consistent mobile, Web and desktop rendering.
+- wa.me message text is UTF-8 percent-encoded with encodeURIComponent().
+- Application form declares accept-charset="UTF-8".
+- Checked for U+FFFD replacement characters: none found.

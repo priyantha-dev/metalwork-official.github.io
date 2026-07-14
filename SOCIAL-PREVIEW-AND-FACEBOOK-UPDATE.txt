@@ -1,0 +1,7 @@
+Updated 2026-07-13
+- Correct production URL: https://priyantha-dev.github.io/metalwork-official.github.io/
+- Complete Open Graph and Twitter Card metadata with absolute image URL.
+- New 1200x630 social preview image: og-cover.png.
+- Facebook job group added: https://www.facebook.com/groups/1358014558132311/
+- Facebook group link appears in Follow job updates, recruiter contact actions and footer.
+- robots.txt, sitemap.xml and deployment notes now use the correct GitHub Pages URL.

@@ -1,0 +1,6 @@
+HOME BUTTON NAVIGATION FIX
+
+The Home button in the mobile bottom navigation now opens index.html directly.
+The MetalWork Jobs header logo also opens index.html directly.
+
+This guarantees that clicking Home returns the visitor to the main homepage, even after using section links or opening a shared job URL.

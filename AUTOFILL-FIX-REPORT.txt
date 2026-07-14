@@ -1,0 +1,32 @@
+MetalWork Jobs v18.2 — Autofill Repair Report
+Date: 2026-07-14
+
+Repairs completed
+- WhatsApp prefilled links use the official wa.me/<number>/?text= structure.
+- Message line endings are normalized to CRLF for cross-device compatibility.
+- WhatsApp message remains emoji-free to avoid replacement-character issues.
+- Candidate profile storage upgraded to mwCandidateProfileV5.
+- Existing profiles from V1–V4 are automatically detected and migrated.
+- Candidate name, email, country, city, experience, languages and selected job can be restored.
+- A session draft preserves entered data when the form is closed and reopened.
+- Saved details update while the Remember option is enabled.
+- Selected job and candidate details are inserted into the reviewed WhatsApp message.
+- The Open WhatsApp link is refreshed immediately before navigation.
+
+Preserved
+- 34 jobs and all job cards
+- Welder-first/default category
+- Mobile-first responsive layout
+- Light/dark mode
+- Message review screen
+- Social preview image and metadata
+- Privacy, legal, cookie, safety, accessibility and recruitment-data pages
+- GitHub Pages root-ready structure
+
+Static audit
+- JavaScript syntax: PASS
+- Job count: 34 PASS
+- Social image: 1200 x 630 PASS
+- Required pages: PASS
+- Missing internal file references: 0
+- WhatsApp URL encode/decode test: PASS

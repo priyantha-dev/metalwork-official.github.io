@@ -1,0 +1,2 @@
+Production URL configured in this package: https://priyantha-dev.github.io/metalwork-official.github.io/
+If you publish at a different address, update canonical, og:url, og:image, robots.txt, sitemap.xml.

@@ -1,0 +1,18 @@
+METALWORK JOBS - ONE UPLOAD PACKAGE
+
+1. Extract this ZIP.
+2. Open the extracted folder.
+3. Select every file in the extracted folder, including the hidden .nojekyll file if your file manager shows it.
+4. Upload all selected items to the repository root.
+5. Do not rename index.html.
+6. Remove old repository files before uploading this package.
+7. After deployment, open the site in a private/incognito window for the first check.
+
+This build keeps CSS and JavaScript inside each HTML page, while images remain normal root files. It contains no base64/data-URI images and no service worker cache.
+
+FINAL SOCIAL-MEDIA LINK SUPPORT
+You can share a job-specific URL, for example:
+https://priyantha-dev.github.io/metalwork-official.github.io/?job=MIG%2FMAG%20Welder
+https://priyantha-dev.github.io/metalwork-official.github.io/?job=Professional%20Bus%20Driver
+
+The matching vacancy category is opened automatically. The candidate still reviews and sends the WhatsApp message manually.

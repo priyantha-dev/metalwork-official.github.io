@@ -1,0 +1,36 @@
+SOCIAL SHARING SAFETY GUIDE
+
+No website can guarantee protection from reports or platform restrictions. The safest approach is transparent, relevant and non-repetitive sharing.
+
+DO
+1. Post only in relevant job groups, pages or professional networks.
+2. Use your real identity and clearly state that you are the recruitment contact.
+3. Describe the specific job category instead of using exaggerated claims.
+4. Use the full website URL; avoid link shorteners and redirect chains.
+5. Vary the caption naturally and add useful context for each audience.
+6. State that availability and final conditions must be confirmed.
+7. State that no job or visa is guaranteed.
+8. Reply professionally to genuine questions and correction requests.
+9. Remove outdated posts and closed vacancies.
+10. Keep screenshots and records of confirmed vacancies and employer-side information.
+
+DO NOT
+1. Do not mass-post the same link repeatedly in a short time.
+2. Do not use bots, automated comments, automated DMs or purchased engagement.
+3. Do not tag unrelated people or groups.
+4. Do not claim guaranteed jobs, guaranteed visas, guaranteed appointments or guaranteed entry.
+5. Do not request passports, IDs, visas, medical or banking documents in public comments or groups.
+6. Do not collect payment through this website.
+7. Do not misrepresent the employer, company authorisation or vacancy conditions.
+
+SAMPLE SAFE CAPTION
+Industrial and technical job categories in Poland. Check the short suitability requirements and contact Priyantha through the website if a role matches your experience. Vacancy availability, responsible employer and final conditions must be confirmed. Employment and visa decisions are not guaranteed.
+
+
+JOB-SPECIFIC LINK EXAMPLES
+Use a clear job-specific link in a post so the matching category and vacancy are shown automatically:
+https://priyantha-dev.github.io/metalwork-official.github.io/?job=MIG%2FMAG%20Welder
+https://priyantha-dev.github.io/metalwork-official.github.io/?job=Professional%20Bus%20Driver
+https://priyantha-dev.github.io/metalwork-official.github.io/?category=Painter
+
+Only use titles that exist on the website. Keep the social-media post factual and do not promise a guaranteed job, work permit or visa.

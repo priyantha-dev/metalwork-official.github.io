@@ -1,0 +1,23 @@
+METALWORK JOBS — CROSS-DEVICE WHATSAPP HOTFIX TEST REPORT
+=========================================================
+
+Changes checked:
+- 34 job records remain present
+- Welding category remains first and selected by default
+- Existing job cards, category filters and shared job links remain present
+- Saved candidate profile flow remains present
+- Selected job and candidate details remain automatically included
+- Full message preview remains visible before WhatsApp
+- Prefilled WhatsApp application message contains no template emoji
+- Prefilled direct job-enquiry message contains no template emoji
+- WhatsApp messages use LF line breaks and URL encoding
+- Candidate-entered Unicode text is NFC-normalized
+- Light/dark mode remains present
+- Privacy, legal, cookies, safety and accessibility pages remain present
+- Social preview image and metadata remain present
+- JavaScript syntax checked with Node.js
+- Internal file references checked
+- ZIP integrity checked
+
+This hotfix targets the replacement-character issue reported on Android,
+WhatsApp Web and Windows desktop while leaving the website UI and features unchanged.

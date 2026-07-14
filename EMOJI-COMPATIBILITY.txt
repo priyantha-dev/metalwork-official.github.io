@@ -1,0 +1,25 @@
+CROSS-DEVICE WHATSAPP MESSAGE COMPATIBILITY
+===========================================
+
+The website interface keeps its existing icons and visual design.
+The prefilled WhatsApp application message is intentionally emoji-free.
+
+Why:
+Some Android, Windows and WhatsApp Web/Desktop combinations may convert
+emoji from a prefilled wa.me URL into replacement characters.
+
+The message now uses:
+- Plain text labels
+- Standard LF line breaks
+- WhatsApp-compatible ASCII bold markers (*)
+- encodeURIComponent() for safe URL encoding
+- NFC normalization for candidate-entered Unicode text
+
+Designed for:
+- Android phones and tablets
+- iPhone and iPad
+- Windows PCs using WhatsApp Desktop or WhatsApp Web
+- macOS using WhatsApp Desktop or WhatsApp Web
+
+Nothing is sent automatically. The candidate reviews the complete message
+before continuing to WhatsApp.

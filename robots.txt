@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://priyantha-dev.github.io/metalwork-official.github.io/sitemap.xml

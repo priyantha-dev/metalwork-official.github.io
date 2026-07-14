@@ -1,0 +1,14 @@
+MetalWork Jobs — Device Autofill Update
+Version: v18.4
+
+Implemented:
+- Browser-native autofill tokens for full name, email, country and city.
+- Optional "Use my device location" control for city and country only.
+- Explicit browser permission is required before location access.
+- Reverse geocoding uses OpenStreetMap Nominatim after the user presses the location button.
+- Coordinates are not stored by this website.
+- Existing saved-profile, selected-job, message-preview and WhatsApp flows are preserved.
+- Same-device profile restore remains limited to the same browser and website domain.
+
+Important privacy limitation:
+A website cannot silently read a person's name or email from a device. The browser may suggest details the user has previously saved, and the user must choose or confirm them.

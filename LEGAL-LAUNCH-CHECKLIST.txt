@@ -1,0 +1,12 @@
+LEGAL LAUNCH CHECKLIST — METALWORK JOBS
+
+1. Confirm the exact identity and contact details of the data controller for every vacancy before candidate data is forwarded.
+2. Confirm whether Priyantha, an employer, a recruitment provider, or more than one party acts as controller/joint controller/processor.
+3. Match the EU Recruitment Data Notice to the real workflow, recipients, legal basis and retention period.
+4. Do not request passports, IDs, visas, medical records, criminal records or banking data during the first enquiry.
+5. Use a separate optional choice for future-vacancy contact. Never pre-select it.
+6. Delete or anonymise candidate data when the recruitment purpose ends, unless a documented lawful reason justifies retention.
+7. Do not add analytics, advertising pixels or marketing cookies without an appropriate consent mechanism.
+8. Confirm rights to use all logos, profile artwork, photos and job-offer content.
+9. Keep visa wording factual: no recruiter, employer or intermediary can guarantee a consular decision.
+10. Obtain a review by a qualified Polish lawyer or data protection professional before relying on the site as a complete legal compliance solution.
